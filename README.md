@@ -1,4 +1,4 @@
-# calculador_palavras
+# most-used-words
 
 ## Project setup
 ```
