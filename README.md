@@ -1,5 +1,5 @@
 # most-used-words
-
+![Farmers Market Finder Demo](https://i.ibb.co/zQyqHwr/GIF-30-05-2020-20-46-21as.gif)
 ## Project setup
 ```
 npm install
